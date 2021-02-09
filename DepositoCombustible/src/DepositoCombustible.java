@@ -18,7 +18,7 @@ public class DepositoCombustible {
     private double depNivel;
 
    /**
-	* DepositoCombustible es el constructor de la clase. 
+	* DepositoCombustible es el constructor de la clase.  
 	* 
 	* <hr>
 	* <br> precondición  depMax &gt; 0.0 and 0.0 &lt;= depNivel &lt;= getTankMax()  
